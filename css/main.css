@@ -21,12 +21,15 @@ a {
   font-family: sans-serif;
   color: #fff;
   background-color: #713837;
-}
-
-li {
-  list-style-type: none;
+  padding: 0.5rem 0.75rem;
+  border: 2px solid #713837;
+  border-radius:3px;
 }
 
 .planets li {
   display: inline-block;
+  list-style-type: none;
+  margin: 0.3rem;
+  padding:0.6rem;
+  text-align: center;
 }
