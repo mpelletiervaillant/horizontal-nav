@@ -26,3 +26,7 @@ a {
 li {
   list-style-type: none;
 }
+
+.planets li {
+  display: inline-block;
+}
