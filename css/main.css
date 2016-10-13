@@ -13,3 +13,11 @@ h1 {
   background-color: #79756f;
   font-weight: bold;
 }
+
+a {
+  text-decoration: none;
+  font-family: sans-serif;
+  color: #fff;
+  background-color: #713837;
+  list-style-type: none;
+}
