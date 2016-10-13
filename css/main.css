@@ -12,14 +12,19 @@ h1 {
   font-family: "Bevan", cursive;
   color: white;
   text-align: center;
-  background-color: #79756f;
   font-weight: bold;
+
+}
+
+header {
+  background-color: #79756f;
 }
 
 a {
   text-decoration: none;
   font-family: sans-serif;
   color: #fff;
+
   background-color: #713837;
   padding: 0.5rem 0.75rem;
   border: 2px solid #713837;
